@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eduardomottoni
 - 👀 I’m interested in .NET Core / AI
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me *eduardomartinsottoni@/gmail.com
+- 🌱 I’m currently learning .NET certification
+- 📫 How to reach me https://www.linkedin.com/in/eduardo-ottoni/
 
 <!---
 eduardomottoni/eduardomottoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
